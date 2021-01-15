@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Bebas Neue', cursive; */
+}
+h1,h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+.icon {
+	width: 140px;
+	margin-right: 50px;
+}
+.bag-bg {
+	background-color: #E6E6E6;
+	border-radius: 30px;
+}
+.single-box {
+	border-radius: 30px;
+}
