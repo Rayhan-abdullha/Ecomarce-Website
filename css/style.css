@@ -5,6 +5,13 @@ body {
 h1,h2 {
     font-family: 'Bebas Neue', cursive;
 }
+.btn-icon {
+	width: 20%;
+	margin-right: 7px;
+}
+.btn-customiz {
+
+}
 .icon {
 	width: 140px;
 	margin-right: 50px;
@@ -15,4 +22,9 @@ h1,h2 {
 }
 .single-box {
 	border-radius: 30px;
+}
+.another-section {
+	text-align: center;
+    padding: 80px;
+    color: #fff
 }
